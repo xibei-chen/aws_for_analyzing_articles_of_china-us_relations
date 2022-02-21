@@ -1,1 +1,1 @@
-# aws_for_analyzing_articles_of_china-us_relations
+# Analyze Sentiment, Key Phrases and Entities of China-US Relations Articles with AWS Translate and Comprehend
