@@ -14,8 +14,8 @@ Firsly I used AWS Translate service to translate the text content from Chinese t
 + What are the most frequently detected entities in the articles?
 
 ## Data Visualizations
-![sentiment_analysis_over_time](/visuals/sentiment_analysis_over_time_barchart.png)
-![top_20_phrases](/visuals/top_20_phrases_barchart.png)
+<img src="/visuals/sentiment_analysis_over_time_barchart.png" width="600" height="500">
+<img src="/visuals/top_20_phrases_barchart.png" width="600" height="500">
 <img src="/visuals/entities_detection_wordcloud.png" width="600" height="500">
 
 
