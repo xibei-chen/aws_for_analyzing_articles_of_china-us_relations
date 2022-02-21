@@ -4,6 +4,10 @@ This is a project for my studies at [Central European University](https://www.ce
 
 As China-US relations have been one of the top real-world topics for quite a long time, and I am not an expert on this topic myself, so I would like to explore a bit about this topic and try to understand the perspective of Chinese media regarding China-US relations.
 
+
+You can read the detailed explanation in this [story](https://medium.com/@xibei_chen/analyze-articles-in-china-us-relations-channel-on-people-cn-b21a08fed220) published on Medium.
+
+
 ## Scraping Website
 The People’s Daily is the largest and one of the most authoritative newspaper groups in China. So I scraped all of the articles available in China-US relations’ channel on People’s Daily Online and stored the data in tabular form in R.
 
@@ -12,8 +16,6 @@ Firsly I used AWS Translate service to translate the text content from Chinese t
 + How do the percentages of positive, negative and neutral sentiments look like and how do they change over time?
 + What are the top 20 key phrases in the articles?
 + What are the most frequently detected entities in the articles?
-
-You can read the detailed explanation in this [story](https://medium.com/@xibei_chen/analyze-articles-in-china-us-relations-channel-on-people-cn-b21a08fed220) published on Medium.
 
 ## Data Visualizations
 <img src="/visuals/sentiment_analysis_over_time_barchart.png" width="600" height="500">
