@@ -4,8 +4,7 @@ This is a project for my studies at [Central European University](https://www.ce
 
 As China-US relations have been one of the top real-world topics for quite a long time, and I am not an expert on this topic myself, so I would like to explore a bit about this topic and try to understand the perspective of Chinese media regarding China-US relations.
 
-
-You can read the detailed script explanation in this [story](https://medium.com/@xibei_chen/analyze-articles-in-china-us-relations-channel-on-people-cn-b21a08fed220) published on Medium.
+You can read the explanation about snippets in details in this [story](https://medium.com/@xibei_chen/analyze-articles-in-china-us-relations-channel-on-people-cn-b21a08fed220) published on Medium.
 
 
 ## Scraping Website
