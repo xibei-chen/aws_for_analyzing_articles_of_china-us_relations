@@ -13,11 +13,12 @@ Firsly I used AWS Translate service to translate the text content from Chinese t
 + What are the top 20 key phrases in the articles?
 + What are the most frequently detected entities in the articles?
 
+You can read the detailed explanation in this [story](https://medium.com/@xibei_chen/analyze-articles-in-china-us-relations-channel-on-people-cn-b21a08fed220) published on Medium.
+
 ## Data Visualizations
 <img src="/visuals/sentiment_analysis_over_time_barchart.png" width="600" height="500">
 <img src="/visuals/top_20_phrases_barchart.png" width="600" height="500">
 <img src="/visuals/entities_detection_wordcloud.png" width="600" height="500">
 
 
-You can read the detailed explanation in this [story](https://medium.com/@xibei_chen/analyze-articles-in-china-us-relations-channel-on-people-cn-b21a08fed220) published on Medium.
 
