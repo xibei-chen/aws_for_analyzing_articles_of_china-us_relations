@@ -16,7 +16,7 @@ Firsly I used AWS Translate service to translate the text content from Chinese t
 ## Data Visualizations
 ![sentiment_analysis_over_time](/visuals/sentiment_analysis_over_time_barchart.png)
 ![top_20_phrases](/visuals/top_20_phrases_barchart.png)
-<img src="/visuals/entities_detection_wordcloud.png" width="600" height="500">
+<img src="/visuals/entities_detection_wordcloud.png" width="600" height="500" align="center">
 
 You can read the detailed explanation in this [story](https://medium.com/@xibei_chen/analyze-articles-in-china-us-relations-channel-on-people-cn-b21a08fed220) published on Medium.
 
